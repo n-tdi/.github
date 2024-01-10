@@ -11,6 +11,6 @@ We may or may not have not logged prior to this...
 ## January 11th, 2024:
 
 Add a little something here
-## What we did:
+### What we did:
 1. Stuff here
 2. More here
